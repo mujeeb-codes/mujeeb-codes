@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Mujeeb!
 
 💻 A passionate **Flutter Developer** (Android & iOS) with a solid foundation in **Computer Science** and problem-solving.  
-🚀 Skilled in building **mobile apps**, designing **REST APIs**, and writing **efficient code** using **C++ & Java**.  
-🌱 Currently learning **Backend Development** to grow towards becoming a **Full-Stack Developer**.
+Skilled in building **mobile apps**, designing **REST APIs**, and writing **efficient code** using **C++ & Java**.   
+ Currently learning **Backend Development** to grow towards becoming a **Full-Stack Developer**. 
 
 ---
 
-## 🧑‍💻 About Me
-- 📱 Professional **iOS & Android app developer** with Flutter  
-- 🔧 Strong background in **Data Structures & Algorithms (DSA)** and **Object-Oriented Programming (OOP)**  
-- 💡 Experience with **REST APIs** and system-level programming (Assembly, C++)  
-- 🚀 Exploring **backend technologies** to broaden my full-stack skills  
-- ⚡ Fun fact: I enjoy solving complex coding challenges and turning ideas into working apps  
+## About Me
+- Professional **iOS & Android app developer** with Flutter   
+- Strong background in **Data Structures & Algorithms (DSA)** and **Object-Oriented Programming (OOP)**   
+- Experience with **REST APIs** and system-level programming (Assembly, C++)   
+- Exploring **backend technologies** to broaden my full-stack skills   
+- Fun fact: I enjoy solving complex coding challenges and turning ideas into working apps   
 
 ---
 
-## 🚀 Tech Stack & Skills
+## Tech Stack & Skills 
 
 ### 🔹 Programming & Fundamentals
 <p>
