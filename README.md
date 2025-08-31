@@ -51,12 +51,6 @@ Skilled in building **mobile apps**, designing **REST APIs**, and writing **effi
 ---
 
 ## 🌍 Connect With Me  
-<p>
-  <a href="https://github.com/mujeeb-codes"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abdul-mujeeb-352030355/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:khatri.mujeeb101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](https://www.linkedin.com/in/abdul-mujeeb-352030355/)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> [khatri.mujeeb101@gmail.com](mailto:khatri.mujeeb101@gmail.com)  
