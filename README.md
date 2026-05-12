@@ -73,21 +73,14 @@ final Abdul = Developer(
 ---
 
 
+
 ## GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mujeeb-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mujeeb-codes&theme=tokyonight" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeeb-codes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mujeeb-codes&theme=tokyo-night&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mujeeb-codes&theme=tokyonight" />
 
 </div>
 
@@ -95,7 +88,7 @@ final Abdul = Developer(
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mujeeb-codes&theme=tokyonight&hide_border=true" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mujeeb-codes&theme=tokyonight" />
 
 </div>
 
