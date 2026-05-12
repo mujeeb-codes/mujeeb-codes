@@ -65,11 +65,10 @@ final Abdul = Developer(
 
 | Project | Stack | What it does |
 |--------|-------|--------------|
-| **[project-name]** | Flutter · Firebase | Short, outcome-focused description. |
-| **[project-name]** | React · Tailwind | Short, outcome-focused description. |
-| **[project-name]** | Dart · REST APIs | Short, outcome-focused description. |
+| **[AI Resume Analyzer]** | FastAPI · OpenAI API · Python | Built scalable AI-driven APIs for resume analysis and intelligent candidate feedback generation. |
+| **[News App]** |Flutter · REST APIs · State Management|Engineered a responsive mobile news experience with dynamic API-driven content and category-based filtering.|
+| **[React · Node.js · MongoDB]** |React · Node.js · MongoDB|Developed a full-stack productivity system with authentication, task management, and clean dashboard workflows.|
 
-*Replace placeholders with your actual repos. Keep descriptions under 12 words.*
 
 ---
 
@@ -113,7 +112,7 @@ final Abdul = Developer(
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-mujeebb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-mujeebk)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khatri.mujeeb101@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_mujheeb)
 
