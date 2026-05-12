@@ -125,6 +125,6 @@ Open to **internship opportunities**, **freelance projects**, and **collaboratio
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
 
-*Last updated: May 2026*
+
 
 </div>
