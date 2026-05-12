@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Hero -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Abdul+Mujeeb+%E2%80%94+Flutter+Developer;Building+products+people+actually+use.;UI%2FUX+%C3%97+Mobile+%C3%97+Full-Stack;Currently+exploring+AI-native+apps.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Abdul+Mujeeb+%E2%80%94+Flutter+%26+React+Developer;Building+products+people+actually+use.;Mobile+%C3%97+Web+%C3%97+Full-Stack;Currently+exploring+AI-native+apps.)](https://git.io/typing-svg)
 
 <br/>
 
