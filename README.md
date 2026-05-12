@@ -1,56 +1,131 @@
-# 👋 Hi, I'm Mujeeb!
+<div align="center">
 
-💻 A passionate **Flutter Developer** (Android & iOS) with a solid foundation in **Computer Science** and problem-solving.  
-Skilled in building **mobile apps**, designing **REST APIs**, and writing **efficient code** using **C++ & Java**.   
- Currently learning **Backend Development** to grow towards becoming a **Full-Stack Developer**. 
+<!-- Typing SVG Hero -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Abdul+Mujeeb+%E2%80%94+Flutter+Developer;Building+products+people+actually+use.;UI%2FUX+%C3%97+Mobile+%C3%97+Full-Stack;Currently+exploring+AI-native+apps.)](https://git.io/typing-svg)
 
----
+<br/>
 
-## About Me
-- Professional **iOS & Android app developer** with Flutter   
-- Strong background in **Data Structures & Algorithms (DSA)** and **Object-Oriented Programming (OOP)**   
-- Experience with **REST APIs** and system-level programming (Assembly, C++)   
-- Exploring **backend technologies** to broaden my full-stack skills   
-- Fun fact: I enjoy solving complex coding challenges and turning ideas into working apps   
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=header&text=&animation=fadeIn" width="100%"/>
+
+</div>
 
 ---
 
-## Tech Stack & Skills 
+## About
 
-### 🔹 Programming & Fundamentals
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Assembly-333333?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-007396?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-02569B?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
+Flutter developer with a product-minded approach — I care about what gets built, how it works, and how it feels to use. My background spans mobile development, frontend engineering, and system-level programming. Currently deepening my full-stack skills and exploring how AI tooling fits into modern product development.
 
-### 🔹 Mobile App Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-</p>
+I write clean code, obsess over UI details, and try to ship things that actually work.
 
-### 🔹 Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend%20(learning)-333333?style=for-the-badge&logo=serverless&logoColor=white"/>
-</p>
+```dart
+final Abdul = Developer(
+  focus:    ['Flutter', 'Dart', 'Firebase', 'React'],
+  building: 'Polished mobile & web products',
+  learning: 'Backend systems · AI integration · SaaS architecture',
+  open_to:  ['Internships', 'Freelance', 'Open Source collaboration'],
+  location: 'Karachi, PK',
+);
+```
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujeeb-codes&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujeeb-codes&theme=tokyonight" width="48%"/>
-</p>
+## Tech Stack
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**CS Fundamentals**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-6EE7B7?style=flat-square&logo=leetcode&logoColor=black)
 
 ---
 
-## 🌍 Connect With Me  
+## Featured Projects
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](https://www.linkedin.com/in/abdul-mujeeb-352030355/)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> [khatri.mujeeb101@gmail.com](mailto:khatri.mujeeb101@gmail.com)  
+> Pinned repos below — each one solves a real problem.
+
+| Project | Stack | What it does |
+|--------|-------|--------------|
+| **[project-name]** | Flutter · Firebase | Short, outcome-focused description. |
+| **[project-name]** | React · Tailwind | Short, outcome-focused description. |
+| **[project-name]** | Dart · REST APIs | Short, outcome-focused description. |
+
+*Replace placeholders with your actual repos. Keep descriptions under 12 words.*
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mujeeb-codes&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeeb-codes&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mujeeb-codes&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujeeb-codes&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Currently Learning
+
+- **Backend development** — Node.js, REST API design, database schema thinking  
+- **AI tooling** — integrating LLMs into real product workflows  
+- **SaaS architecture** — auth flows, billing, multi-tenancy  
+- **Animations in Flutter** — Rive, Lottie, custom painter  
+
+---
+
+## 2026 Goals
+
+- [ ] Ship one complete SaaS product  
+- [ ] Land a software engineering internship  
+- [ ] Contribute meaningfully to one open-source Flutter package  
+- [ ] Build a production-grade AI-integrated mobile app  
+- [ ] Publish technical write-ups on what I learn  
+
+---
+
+## Connect
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-mujeebb)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khatri.mujeeb101@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_mujheeb)
+
+</div>
+
+Open to **internship opportunities**, **freelance projects**, and **collaborations** on interesting product ideas. If you're building something real — reach out.
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+
+*Last updated: May 2026*
+
+</div>
