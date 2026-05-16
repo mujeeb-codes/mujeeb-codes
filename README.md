@@ -5,6 +5,8 @@
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=mujeeb-codes&style=flat-square&color=6EE7F7&label=Profile+Views)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=header&text=&animation=fadeIn" width="100%"/>
 
 </div>
@@ -129,7 +131,4 @@ Open to **internship opportunities**, **freelance projects**, and **collaboratio
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
-
-
-
 </div>
