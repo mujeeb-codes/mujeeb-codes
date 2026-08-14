@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Hero -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Abdul+Mujeeb+%E2%80%94+Flutter+%26+React+Developer;Building+products+people+actually+use.;Mobile+%C3%97+Web+%C3%97+Full-Stack;Currently+exploring+AI-native+apps.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Abdul+Mujeeb+%E2%80%94+Full-Stack+Developer;Building+scalable+products;React+%C3%97+Node.js+%C3%97+Flutter;Currently+exploring+AI-native+apps.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,16 +15,16 @@
 
 ## About
 
-Flutter developer with a product-minded approach — I care about what gets built, how it works, and how it feels to use. My background spans mobile development, frontend engineering, and system-level programming. Currently deepening my full-stack skills and exploring how AI tooling fits into modern product development.
+Full-Stack Developer with a product-minded approach — I build across the entire stack, from scalable backend APIs to polished mobile and web UIs. My background spans full-stack development, mobile engineering (Flutter), and system-level programming. Currently deepening AI integration and SaaS architecture skills.
 
-I write clean code, obsess over UI details, and try to ship things that actually work.
+I write clean, maintainable code, obsess over user experience, and ship products that actually work.
 
 ```dart
 final Abdul = Developer(
-  focus:    ['Flutter', 'Dart', 'Firebase', 'React'],
-  building: 'Polished mobile & web products',
-  learning: 'Backend systems · AI integration · SaaS architecture',
-  open_to:  ['Internships', 'Freelance', 'Open Source collaboration'],
+  focus:    ['React', 'Node.js', 'Flutter', 'PostgreSQL'],
+  building: 'Full-stack products & scalable APIs',
+  learning: 'AI integration · SaaS architecture · Backend optimization',
+  open_to:  ['Internships', 'Freelance', 'Startup opportunities'],
   location: 'Karachi, PK',
 );
 ```
@@ -33,48 +33,46 @@ final Abdul = Developer(
 
 ## Tech Stack
 
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
 **Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Tools**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Tools & CS**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-**CS Fundamentals**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-6EE7B7?style=flat-square&logo=leetcode&logoColor=black)
 
 ---
 
 ## Featured Projects
 
-> Pinned repos below — each one solves a real problem.
+> Real products built end-to-end
 
 | Project | Stack | What it does |
 |--------|-------|--------------|
-| **[AI Resume Analyzer]** | FastAPI · OpenAI API · Python | Built scalable AI-driven APIs for resume analysis and intelligent candidate feedback generation. |
-| **[News App]** |Flutter · REST APIs · State Management|Engineered a responsive mobile news experience with dynamic API-driven content and category-based filtering.|
-| **[React · Node.js · MongoDB]** |React · Node.js · MongoDB|Developed a full-stack productivity system with authentication, task management, and clean dashboard workflows.|
-
+| **[Bee Bliss]** — E-Commerce Platform | Next.js · TypeScript · Prisma · PostgreSQL · REST APIs | Full-stack e-commerce with customer storefront, admin dashboard, order management, checkout flow, and delivery tracking. Production-ready architecture. |
+| **[AI Resume Analyzer]** | FastAPI · OpenAI API · Python | Scalable AI-driven backend for intelligent resume analysis and structured candidate feedback generation. |
+| **[Task Manager]** — Full-Stack App | React · Node.js · SQL · JWT Auth | Complete task management system with REST APIs, authentication, and clean dashboard workflows. |
+| **[News App]** | Flutter · REST APIs · State Management | Cross-platform mobile news app with real-time API integration and category filtering. |
 
 ---
-
-
 
 ## GitHub Analytics
 
@@ -98,19 +96,19 @@ final Abdul = Developer(
 
 ## Currently Learning
 
-- **Backend development** — Node.js, REST API design, database schema thinking  
-- **AI tooling** — integrating LLMs into real product workflows  
-- **SaaS architecture** — auth flows, billing, multi-tenancy  
-- **Animations in Flutter** — Rive, Lottie, custom painter  
+- **SaaS architecture** — auth flows, billing systems, multi-tenancy  
+- **AI integration** — embedding LLMs into product workflows  
+- **Backend optimization** — database indexing, caching strategies, API performance  
+- **Advanced animations** — Flutter (Rive, Lottie, custom painters)  
 
 ---
 
 ## 2026 Goals
 
-- [ ] Ship one complete SaaS product  
-- [ ] Land a software engineering internship  
-- [ ] Contribute meaningfully to one open-source Flutter package  
+- [ ] Land a software engineering internship at a product-focused company  
+- [ ] Ship one complete full-stack SaaS product  
 - [ ] Build a production-grade AI-integrated mobile app  
+- [ ] Contribute to open-source projects  
 - [ ] Publish technical write-ups on what I learn  
 
 ---
@@ -121,11 +119,11 @@ final Abdul = Developer(
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-mujeebk)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khatri.mujeeb101@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_mujheeb)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mujeeb-codes)
 
 </div>
 
-Open to **internship opportunities**, **freelance projects**, and **collaborations** on interesting product ideas. If you're building something real — reach out.
+Open to **internship opportunities**, **freelance full-stack projects**, and **startup collaborations**. If you're building something real — let's talk.
 
 ---
 
